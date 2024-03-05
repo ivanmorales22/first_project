@@ -1,0 +1,37 @@
+1. Definición del Problema
+Descripción clara del problema a resolver: Debe incluir el contexto y los objetivos específicos del proyecto.
+Justificación de la relevancia: Por qué el problema es importante y qué impacto tiene su solución.
+El problema o situacion a analisar y tratar en este proyecto se trata de la empleabilidad de una muestra 
+de 700 graduados de distintas universidades de los estados unidos, como UCLA, UC Berkeley, Harvard, MIT,
+entre otros, en dicho dataset se analisan distintas variables como la edad, el sueldo, su estatus de 
+empleabilidad, sexo y carrera. El objetivo es encontrar patrones y observar como se comparan los perfiles 
+de estudiante de la misma carrera al salir de distintas universidades, comparar sus salarios y determinar 
+si existen diferencias reales entre salarios de hombres y mujeres 
+
+2. Recolección y Preparación de Datos
+Fuentes de datos: Describir las fuentes de donde se obtendrán los datos (webscraping, bases de datos, APIs, datasets públicos).
+Proceso de recolección de datos: Explicar cómo se recolectarán o accederán los datos.
+Limpieza y preprocesamiento de datos: Incluir pasos para la limpieza inicial, manejo de valores faltantes, y cualquier transformación de datos necesaria para el análisis.
+El dataset se extrajo de kaggle, adjunto el link
+https://www.kaggle.com/datasets/mahad049/job-placement-dataset 
+
+3. Análisis Exploratorio de Datos (EDA)
+Estadísticas descriptivas: Mostrar medidas de tendencia central, dispersión, y distribuciones de las variables.
+Visualizaciones: Generar gráficos que faciliten la comprensión de los datos (histogramas, boxplots, scatter plots).
+
+4. Metodología
+Herramientas y librerías de Python a utilizar: Especificar las principales librerías (como Pandas, NumPy, Matplotlib, Seaborn) y cómo se planea usarlas.
+Plan de análisis: Describir los métodos o técnicas de análisis de datos que se aplicarán (análisis estadístico, machine learning, etc.).
+Las librerias principales a utilizar seran Pandas, NumPy y Matplotlib como se menciona arriba.
+
+5. Primeros Resultados y Análisis
+Resultados preliminares: Presentar los primeros hallazgos, incluso si son provisionales o necesitan ser profundizados.
+Interpretación de los resultados: Ofrecer una interpretación inicial de los resultados obtenidos.
+
+6. Documentación y Código
+Código fuente: El código debe estar bien documentado, con comentarios que expliquen las principales secciones y decisiones de programación.
+Repositorio de código: Ell código debería estar disponible  GitHub, con un README que describa el proyecto, cómo ejecutar el código, y las dependencias necesarias.
+
+7. Plan para los Siguientes Avances
+Objetivos a corto plazo: Definir los próximos pasos en el proyecto.
+Desafíos identificados: Cualquier obstáculo anticipado o encontrado y cómo se planea abordarlos.
