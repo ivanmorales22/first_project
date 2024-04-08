@@ -1,7 +1,7 @@
 1. Definición del Problema
 Descripción clara del problema a resolver: Debe incluir el contexto y los objetivos específicos del proyecto.
 Justificación de la relevancia: Por qué el problema es importante y qué impacto tiene su solución.
-El problema o situacion a analisar y tratar en este proyecto se trata de la empleabilidad de una muestra 
+El problema o situacion a analizar y tratar en este proyecto se trata de la empleabilidad de una muestra 
 de 700 graduados de distintas universidades de los estados unidos, como UCLA, UC Berkeley, Harvard, MIT,
 entre otros, en dicho dataset se analisan distintas variables como la edad, el sueldo, su estatus de 
 empleabilidad, sexo y carrera. El objetivo es encontrar patrones y observar como se comparan los perfiles 
